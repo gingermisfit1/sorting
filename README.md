@@ -32,3 +32,5 @@ WHILE swaps is True:
 OUTPUT alist
 END
 ```
+
+##Pseudocode for selection sort
