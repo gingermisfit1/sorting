@@ -34,3 +34,8 @@ END
 ```
 
 ##Pseudocode for selection sort
+
+
+```
+BEGIN
+INPUT
